@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/lljj/paper/.texpadtmp/draft.aux
+The style file: elsarticle-num.bst
+Database file #1: ../references.bib
+Warning--I didn't find a database entry for "Gracia-LázaroCuesta-18325"
+Warning--I didn't find a database entry for "WangSzolnoki-18337"
+Warning--I didn't find a database entry for "CiminiSanchez-18359"
+Warning--there's a number but no volume in Anthonisse-18331
+You've used 52 entries,
+            2937 wiz_defined-function locations,
+            1015 strings with 14087 characters,
+and the built_in function-call counts, 14345 in all, are:
+= -- 1298
+> -- 508
+< -- 2
++ -- 204
+- -- 152
+* -- 1039
+:= -- 2008
+add.period$ -- 53
+call.type$ -- 52
+change.case$ -- 46
+chr.to.int$ -- 0
+cite$ -- 53
+duplicate$ -- 406
+empty$ -- 1624
+format.name$ -- 194
+if$ -- 3730
+int.to.chr$ -- 0
+int.to.str$ -- 52
+missing$ -- 57
+newline$ -- 165
+num.names$ -- 52
+pop$ -- 303
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 908
+stack$ -- 0
+substring$ -- 818
+swap$ -- 49
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 96
+width$ -- 54
+write$ -- 418
+(There were 4 warnings)
